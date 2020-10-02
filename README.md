@@ -12,7 +12,7 @@
 
 <body>
   <p>
-      hello hi how are you boy 
+      this is a classic web pages for you guys.
   </p>
 </body>
 </html>
